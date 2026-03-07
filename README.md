@@ -17,7 +17,7 @@ Cliquez sur les boutons ci-dessous pour naviguer vers le contenu spécifique de 
 ---
 
 
-## 🟦 [SEMESTRE 1 – Fondamentaux](https://github.com/TON_USER/Master-SIDI/tree/Semestre1)
+## 🟦 [SEMESTRE 1 – Fondamentaux](https://github.com/pp-yb-by-25/MST-SIDI-2025/tree/Semestre1)
 > "Les bases solides construisent les grandes carrières." 🚀
 
 1️⃣ **Acquisition et Traitement du Signal Numérique** ![Signal](https://img.shields.io/badge/S1-Signal-blue)
