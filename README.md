@@ -13,8 +13,9 @@
 ![Modules](https://img.shields.io/badge/Modules-8-388bfd?style=for-the-badge)
 ![Volume](https://img.shields.io/badge/Volume-448h-FF8C00?style=for-the-badge)
 
----
+</div>
 
+---
 ![Progress](https://img.shields.io/badge/Progression-✅_Terminé-brightgreen?style=flat-square)
 
 | # | Module | Technologies | Badge |
@@ -35,5 +36,3 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
