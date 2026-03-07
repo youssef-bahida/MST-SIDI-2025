@@ -1,67 +1,51 @@
-# 🎓 SEMESTRE 3 – Master SIDI
+<div align="center">
 
-![Repo](https://img.shields.io/badge/Repo-Master%20SIDI-blue?style=for-the-badge)
-![Semestre](https://img.shields.io/badge/Semestre-3-green?style=for-the-badge)
+![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=4000&pause=2000&color=E6A817&center=true&vCenter=true&width=750&height=90&lines=🟨+Semestre+3)
 
-Bienvenue dans la branche du **Semestre 3**. Ce semestre est axé sur l'Intelligence Artificielle, le Big Data et les architectures distribuées.
+![Sub](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=2000&color=FF8C00&center=true&vCenter=true&width=750&height=50&lines=IA+%26+Big+Data+%7C+Master+Degree+2025-2027)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=🌐+Web+Semantique+%7C+RDF+%7C+OWL+%7C+SPARQL;🔥+Big+Data+%7C+Hadoop+%7C+Spark+%7C+Kafka;🧠+Machine+Learning+%7C+TensorFlow+%7C+Scikit-learn;🤖+Intelligence+Artificielle+%7C+Prolog+%7C+Logic;🖼️+CBIR+%7C+OpenCV+%7C+Deep+Learning;🗄️+BD+Reparties+%7C+MongoDB+%7C+Cassandra;📅+Semestre+3+—+Planifie...)](https://git.io/typing-svg)
 
-## 🧱 Modules du Semestre 3
+<br/>
 
-### 1️⃣ MODULE_1_WEB - Web Sémantique
-![Web](https://img.shields.io/badge/Web-56h-green)
-* **Concepts :** Ontologies, RDF, SPARQL, Web de données.
-* **Projets :** [Dossier MODULE_1_WEB](./Web_Semantique)
+![Repo](https://img.shields.io/badge/Repo-Semestre_3-0f3460?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-📅_Planifié-E6A817?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-6-388bfd?style=for-the-badge)
+![Volume](https://img.shields.io/badge/Volume-336h-FF8C00?style=for-the-badge)
 
-> "Donner du sens aux données pour un web intelligent." 🕸️ ✨
-
----
-
-### 2️⃣ MODULE_2_BIGDATA - Systèmes d’Informations pour le Big Data
-![Big Data](https://img.shields.io/badge/Big_Data-56h-orange)
-* **Concepts :** Écosystème Hadoop, Spark, NoSQL, stockage distribué.
-* **Projets :** [Dossier MODULE_2_BIGDATA](./Big_Data)
-
-> "Gérer l'infobésité par la puissance du calcul distribué." 🐘 🔥
+</div>
 
 ---
 
-### 3️⃣ MODULE_3_ML - Machine Learning et Data Mining
-![ML](https://img.shields.io/badge/ML-56h-blue)
-* **Concepts :** Apprentissage supervisé, clustering, arbres de décision, réseaux de neurones.
-* **Projets :** [Dossier MODULE_3_ML](./Machine_Learning)
+> *"L'intelligence artificielle commence par l'intelligence humaine."* 🧠✨
 
-> "Apprendre du passé pour prédire le futur." 🤖 📈
+![Progress](https://img.shields.io/badge/Progression-📅_Planifié-E6A817?style=flat-square)
 
----
+| # | Module | Technologies | Badge |
+|---|--------|-------------|-------|
+| 1 | **Web Sémantique** | RDF, OWL, SPARQL | ![Web](https://img.shields.io/badge/S3-Web_Semantique-8A2BE2?style=flat-square) |
+| 2 | **Systèmes d'Information pour le Big Data** | Hadoop, Spark, Kafka | ![BigData](https://img.shields.io/badge/S3-Big_Data-E25A1C?style=flat-square) |
+| 3 | **Machine Learning & Data Mining** | Scikit-learn, TensorFlow | ![ML](https://img.shields.io/badge/S3-Machine_Learning-F7931E?style=flat-square) |
+| 4 | **Logique & Intelligence Artificielle** | Prolog, Python, Logic | ![IA](https://img.shields.io/badge/S3-Intelligence_Artificielle-E6A817?style=flat-square) |
+| 5 | **Indexation & Recherche d'Image par le Contenu** | OpenCV, Deep Learning | ![CBIR](https://img.shields.io/badge/S3-CBIR-5C3EE8?style=flat-square) |
+| 6 | **Bases de Données Réparties** | MongoDB, Cassandra, SQL | ![BDR](https://img.shields.io/badge/S3-BD_Reparties-4EA94B?style=flat-square) |
 
-### 4️⃣ MODULE_4_IA - Logique et Intelligence Artificielle
-![IA](https://img.shields.io/badge/IA-56h-red)
-* **Concepts :** Systèmes experts, logique formelle, résolution de problèmes.
-* **Projets :** [Dossier MODULE_4_IA](./Logique_IA)
-
-> "La logique est le début de la sagesse, pas la fin." 🧠 ⚡
-
----
-
-### 5️⃣ MODULE_5_INDEX - Indexation et Recherche d’Image par le Contenu
-![Indexation](https://img.shields.io/badge/Indexation-56h-purple)
-* **Concepts :** Descripteurs visuels, recherche par similarité, CBIR.
-* **Projets :** [Dossier MODULE_5_INDEXATION](./Indexation_Image)
-
-> "Retrouver une image par ce qu'elle montre, pas par son nom." 🖼️ 🔍
+**Skills acquired:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-### 6️⃣ MODULE_6_BDD - Bases de Données Réparties
-![Database](https://img.shields.io/badge/Database-56h-lightgrey)
-* **Concepts :** Fragmentation, réplication, transparence, cohérence.
-* **Projets :** [Dossier MODULE_6_BDD_REPARTIES](./BDD_Reparties)
+## 📊 Branch Status
 
-> "La donnée est partout, la cohérence est le défi." 📂 🌐
+![Projects](https://img.shields.io/badge/Modules-6-blue?style=flat-square)
+![Branch](https://img.shields.io/badge/Branch-Semestre3-E6A817?style=flat-square)
+![Status](https://img.shields.io/badge/Status-📅_Planifié-E6A817?style=flat-square)
 
 ---
 
-## 📂 Organisation
-Chaque dossier contient les ressources nécessaires (Cours, TP, Projets) pour valider l'expertise du S3.
+[⬅️ Back to Main — Master SIDI](../../tree/main)
