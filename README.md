@@ -1,9 +1,11 @@
 
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=4000&pause=1000&color=388BFD&center=true&vCenter=true&width=750&height=80&lines=🎓+Semestre+2)
+![Title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=4000&pause=2000&color=388BFD&center=true&vCenter=true&width=750&height=90&lines=🎓+Semestre+2)
 
-![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=FF8C00&center=true&vCenter=true&width=750&height=50&lines=Analyse+%26+Securite+%7C+Master+Degree+2025-2027)
+![Sub](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=2000&color=FF8C00&center=true&vCenter=true&width=750&height=50&lines=Analyse+%26+Securite+%7C+Master+Degree+2025-2027)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=750&lines=🌍+SIG+%7C+Cartographie;🔐+Securite+%7C+Cryptographie;📸+Traitement+Image+%7C+OpenCV;📊+Analyse+Donnees+%7C+Pandas;🎲+Modelisation+Stochastique;🔄+Semestre+2+en+cours...)](https://git.io/typing-svg)
 
 </div>
 
