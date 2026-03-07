@@ -4,7 +4,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=750&lines=🎓+Master+Degree+—+2025%2F2027;📊+Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;🔐+Cybersecurity+%7C+Networks+%7C+Cryptography;🖼️+Image+Processing+%7C+Computer+Vision;🧠+Artificial+Intelligence+%7C+Optimization;✅+Semestre+1+—+TERMINÉ+avec+succès+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=FF8C00&background=00000000&center=true&vCenter=true&width=750&lines=🎓+Master+Degree+—+2025%2F2027;📊+Data+Analysis+%7C+Machine+Learning+%7C+Big+Data;🔐+Cybersecurity+%7C+Networks+%7C+Cryptography;🖼️+Image+Processing+%7C+Computer+Vision;🧠+Artificial+Intelligence+%7C+Optimization;✅+Semestre+1+—+TERMINÉ+avec+succès+🏆)](https://git.io/typing-svg)
+
 
 <br/>
 
