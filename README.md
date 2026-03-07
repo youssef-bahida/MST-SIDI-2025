@@ -53,7 +53,7 @@ Cliquez sur les boutons ci-dessous pour naviguer vers le contenu spécifique de 
 
 ---
 
-## 🟨 [SEMESTRE 3 – IA & Big Data](https://github.com/pp-yb-by-25/Master-SIDI/tree/Semestre3)
+## 🟨 [SEMESTRE 3 – IA & Big Data](https://github.com/pp-yb-by-25/MST-SIDI-2025/tree/Semestre3)
 > "L’intelligence artificielle commence par l’intelligence humaine." 🧠✨
 
 1️⃣ **Web Sémantique** ![Web](https://img.shields.io/badge/S3-Semantic-yellow)
@@ -70,7 +70,7 @@ Cliquez sur les boutons ci-dessous pour naviguer vers le contenu spécifique de 
 
 ---
 
-## 🟥 [SEMESTRE 4 – Finalisation](https://github.com/pp-yb-by-25/Master-SIDI/tree/Semestre4)
+## 🟥 [SEMESTRE 4 – Finalisation](https://github.com/pp-yb-by-25/MST-SIDI-2025/tree/Semestre4)
 > "Le projet final est la vitrine de votre expertise." 🎯
 
 🎓 **Stage / Projet de Recherche** ![PFE](https://img.shields.io/badge/S4-Research-red)
