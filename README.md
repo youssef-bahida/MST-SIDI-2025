@@ -12,7 +12,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 1️⃣ MODULE_1_SIG - Système d’Information Géographique
 ![SIG](https://img.shields.io/badge/SIG-56h-green)
 * **Concepts :** données spatiales, SIG, cartographie, analyse géographique.
-* **Projets :** [Dossier MODULE_1_SIG](./SIG)
+* **Projets :** [Dossier MODULE_1_SIG](./MODULE%201%20-%20SIG)
 
 > "Cartographier le monde pour mieux le comprendre." 🌍 🗺️
 
@@ -21,7 +21,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 2️⃣ MODULE_2_INFO - Infographie 2D/3D et Reconnaissance de Formes
 ![Infographie](https://img.shields.io/badge/Infographie-56h-orange)
 * **Concepts :** modélisation graphique, rendu 2D/3D, vision par ordinateur.
-* **Projets :** [Dossier MODULE_2_INFOGRAPHIE](./Infographie)
+* **Projets :** [Dossier MODULE_2_INFOGRAPHIE](./MODULE%201%20-%20INFORGRAPHIE)
 
 > "L'imagination devient réalité à travers le rendu." 🎨 🖥️
 
@@ -30,7 +30,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 3️⃣ MODULE_3_SEC - Sécurité des Systèmes Informatiques
 ![Sécurité](https://img.shields.io/badge/Sécurité-56h-red)
 * **Concepts :** cryptographie, authentification, sécurité réseau, attaques.
-* **Projets :** [Dossier MODULE_3_SECURITE](./Securite)
+* **Projets :** [Dossier MODULE_3_SECURITE](./MODULE%201%20-%20SECURITE)
 
 > "La meilleure défense est une compréhension profonde de l'attaque." 🔐 🛡️
 
@@ -39,7 +39,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 4️⃣ MODULE_4_IMAGE - Traitement Numérique d’Image
 ![Image](https://img.shields.io/badge/Image-56h-blueviolet)
 * **Concepts :** filtrage d’images, segmentation, détection de contours.
-* **Projets :** [Dossier MODULE_4_IMAGE](./Traitement_Image)
+* **Projets :** [Dossier MODULE_4_IMAGE](./MODULE%201%20-%20TNI)
 
 > "Extraire l'essentiel de chaque pixel." 📸 🔍
 
@@ -48,7 +48,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 5️⃣ MODULE_5_DATA - Analyse de données
 ![Data](https://img.shields.io/badge/Data-56h-blue)
 * **Concepts :** statistiques, exploration de données, visualisation.
-* **Projets :** [Dossier MODULE_5_ANALYSE](./Analyse_Donnees)
+* **Projets :** [Dossier MODULE_5_ANALYSE](./MODULE%201%20-%20ANALYSE%20DONNEES)
 
 > "Les données parlent si on sait comment les écouter." 📊 📈
 
@@ -57,7 +57,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 6️⃣ MODULE_6_STOCH - Modélisation Stochastique
 ![Maths](https://img.shields.io/badge/Maths-56h-lightgrey)
 * **Concepts :** variables aléatoires, chaînes de Markov, processus stochastiques.
-* **Projets :** [Dossier MODULE_6_STOCHASTIQUE](./Modelisation_Stochastique)
+* **Projets :** [Dossier MODULE_6_STOCHASTIQUE](./MODULE%201%20-%20STOCHASTIQUE)
 
 > "Prédire l'imprévisible grâce aux probabilités." 🎲 📉
 
