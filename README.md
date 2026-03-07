@@ -21,7 +21,7 @@ Bienvenue dans la branche du **Semestre 2**. Ce répertoire contient les modules
 ### 2️⃣ MODULE_2_INFO - Infographie 2D/3D et Reconnaissance de Formes
 ![Infographie](https://img.shields.io/badge/Infographie-56h-orange)
 * **Concepts :** modélisation graphique, rendu 2D/3D, vision par ordinateur.
-* **Projets :** [Dossier MODULE_2_INFOGRAPHIE](./MODULE%201%20-%20INFORGRAPHIE)
+* **Projets :** [Dossier MODULE_2_INFOGRAPHIE](./MODULE%202%20-%20INFOGRAPHIE)
 
 > "L'imagination devient réalité à travers le rendu." 🎨 🖥️
 
