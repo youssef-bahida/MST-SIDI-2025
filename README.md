@@ -48,7 +48,7 @@
 | 5 | **Théorie des Graphes & Techniques d'Optimisation** | Python, NetworkX, Dijkstra | ![Graphes](https://img.shields.io/badge/S1-Graphes-0078D4?style=flat-square) |
 | 6 | **Gestion de Projet & Anglais Scientifique** | Agile, Scrum, English | ![Management](https://img.shields.io/badge/S1-Management-0078D4?style=flat-square) |
 
-**Skills acquired:**
+**Skills acquired:**</br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -72,7 +72,7 @@
 | 5 | **Analyse de Données** | Pandas, Seaborn, R | ![Data](https://img.shields.io/badge/S2-Data_Analysis-28A745?style=flat-square) |
 | 6 | **Modélisation Stochastique** | Python, R, SciPy | ![Maths](https://img.shields.io/badge/S2-Probabilités-28A745?style=flat-square) |
 
-**Skills acquired:**
+**Skills acquired:**</br>
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -96,7 +96,7 @@
 | 5 | **Indexation & Recherche d'Image par le Contenu** | OpenCV, Deep Learning | ![CBIR](https://img.shields.io/badge/S3-CBIR-E6A817?style=flat-square) |
 | 6 | **Bases de Données Réparties** | MongoDB, Cassandra, SQL | ![BDR](https://img.shields.io/badge/S3-BD_Réparties-E6A817?style=flat-square) |
 
-**Skills acquired:**
+**Skills acquired:**</br>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -121,7 +121,7 @@
 
 ## 🛠️ Technologies Globales du Master
 
-**Langages**
+**Langages**</br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -129,14 +129,14 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data & AI**
+**Data & AI**</br>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Infrastructure & Security**
+**Infrastructure & Security**</br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
