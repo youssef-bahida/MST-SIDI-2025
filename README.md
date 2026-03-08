@@ -35,18 +35,14 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
-
 ## 📊 Branch Status
 
-![Modules](https://img.shields.io/badge/Phases-5-blue?style=flat-square)
-![Branch](https://img.shields.io/badge/Branch-Semestre4-DC3545?style=flat-square)
-![Status](https://img.shields.io/badge/Status-📅_Planifié-DC3545?style=flat-square)
+![Modules](https://img.shields.io/badge/Modules-8-blue?style=flat-square)
+![Branch](https://img.shields.io/badge/Branch-Semestre1-388BFD?style=flat-square)
+![Status](https://img.shields.io/badge/Status-✅_Terminé-brightgreen?style=flat-square)
 
 ---
 
 [![Back](https://img.shields.io/badge/⬅️_Retour-Master_SIDI-388bfd?style=for-the-badge)](https://github.com/youssef-bahida/MST-SIDI-2025)
-</br></br>
 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</br></br>
