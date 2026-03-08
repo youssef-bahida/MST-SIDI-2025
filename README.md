@@ -30,12 +30,15 @@
 | 5 | **Analyse de Données** | Pandas, Seaborn, R | ![Data](https://img.shields.io/badge/S2-Data_Analysis-28A745?style=flat-square) |
 | 6 | **Modélisation Stochastique** | Python, R, SciPy | ![Maths](https://img.shields.io/badge/S2-Probabilites-28A745?style=flat-square) |
 
-**Skills acquired:**
+**Skills acquired:**</br>
+<div>
+  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-FF6600?style=for-the-badge&logo=letsencrypt&logoColor=white)
+</div>
 
 ---
 
