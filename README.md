@@ -29,11 +29,14 @@
 | 7 | **Traitement du Signal Numérique** | MATLAB, Python, SciPy | ![S1](https://img.shields.io/badge/S1-Signal-DC3545?style=flat-square) |
 | 8 | **Développement Mobile Android** | Java, Kotlin, Retrofit | ![S1](https://img.shields.io/badge/S1-Android-3DDC84?style=flat-square) |
 
-**Skills acquired:**
+**Skills acquired:** 
+<div>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+</div>
 ---
 ## 📊 Branch Status
 
