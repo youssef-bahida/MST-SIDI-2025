@@ -25,6 +25,7 @@
 
 [![S1](https://img.shields.io/badge/SEMESTRE_1-✅_Terminé-brightgreen?style=for-the-badge&logo=git&logoColor=white)](https://github.com/youssef-bahida/MST-SIDI-2025/tree/Semestre1)
 [![S2](https://img.shields.io/badge/SEMESTRE_2-Analyse_%26_Sécurité-28A745?style=for-the-badge&logo=git&logoColor=white)](https://github.com/youssef-bahida/MST-SIDI-2025/tree/Semestre2)
+</br>
 [![S3](https://img.shields.io/badge/SEMESTRE_3-IA_%26_Big_Data-E6A817?style=for-the-badge&logo=git&logoColor=white)](https://github.com/youssef-bahida/MST-SIDI-2025/tree/Semestre3)
 [![S4](https://img.shields.io/badge/SEMESTRE_4-Finalisation-DC3545?style=for-the-badge&logo=git&logoColor=white)](https://github.com/youssef-bahida/MST-SIDI-2025/tree/Semestre4)
 
