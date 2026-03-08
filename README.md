@@ -41,10 +41,12 @@
 
 ## 📊 Branch Status
 
-![Projects](https://img.shields.io/badge/Modules-6-blue?style=flat-square)
+![Modules](https://img.shields.io/badge/Modules-6-blue?style=flat-square)
 ![Branch](https://img.shields.io/badge/Branch-Semestre2-28A745?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-🔄_En_cours-28A745?style=flat-square)
 
 ---
 
-[⬅️ Back to Main — Master SIDI](../../tree/main)
+[![Back](https://img.shields.io/badge/⬅️_Retour-Master_SIDI-388bfd?style=for-the-badge)](https://github.com/youssef-bahida/MST-SIDI-2025)
+
+</br></br>
