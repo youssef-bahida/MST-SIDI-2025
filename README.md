@@ -11,7 +11,7 @@
 
 ![Repo](https://img.shields.io/badge/Repo-Master_SIDI-0f3460?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Year](https://img.shields.io/badge/Année-2024%2F2026-e94560?style=for-the-badge)
+![Year](https://img.shields.io/badge/Année-2025%2F2027-e94560?style=for-the-badge)
 ![Semestres](https://img.shields.io/badge/Semestres-4-16213e?style=for-the-badge)
 ![Modules](https://img.shields.io/badge/Modules-21-blueviolet?style=for-the-badge)
 
